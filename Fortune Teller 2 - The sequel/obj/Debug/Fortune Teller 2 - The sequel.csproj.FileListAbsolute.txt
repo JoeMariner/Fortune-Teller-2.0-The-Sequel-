@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Fortune Teller 2 - The sequel\Fortune Teller 2 - The sequel\bin\Debug\Fortune Teller 2 - The sequel.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Fortune Teller 2 - The sequel\Fortune Teller 2 - The sequel\bin\Debug\Fortune Teller 2 - The sequel.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Fortune Teller 2 - The sequel\Fortune Teller 2 - The sequel\bin\Debug\Fortune Teller 2 - The sequel.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Fortune Teller 2 - The sequel\Fortune Teller 2 - The sequel\obj\Debug\Fortune Teller 2 - The sequel.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Fortune Teller 2 - The sequel\Fortune Teller 2 - The sequel\obj\Debug\Fortune Teller 2 - The sequel.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Fortune Teller 2 - The sequel\Fortune Teller 2 - The sequel\obj\Debug\Fortune Teller 2 - The sequel.pdb
